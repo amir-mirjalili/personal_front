@@ -22,7 +22,7 @@ A React-based personal productivity application for managing habits and tasks.
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/amir-mirjalili/personal_front)
+   git clone https://github.com/amir-mirjalili/personal_front
    cd personal_front
    ```
 
